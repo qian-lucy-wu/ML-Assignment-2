@@ -14,9 +14,9 @@ Provide evidence to support your answers.
 
 Answer the following questions:
 
-1. [20 pts] Using the sales.csv Download sales.csv, write code to show effects of interactions, if any, on the linear regression model to predict the total_sales for a new area using given sales from three areas.
+1. [20 pts] Using the sales.csv, write code to show effects of interactions, if any, on the linear regression model to predict the total_sales for a new area using given sales from three areas.
 
-2. [25 pts] Develop a full Logistic Regression Model using customer.csv Download customer.csvto predict whether the customer will purchase the product. Also train trimmed logistic regression models (Trimmed over features in the data). Compute the "in-sample R2" (pseudo) for the models you train and compare the models based on this metric.
+2. [25 pts] Develop a full Logistic Regression Model using customer.csv to predict whether the customer will purchase the product. Also train trimmed logistic regression models (Trimmed over features in the data). Compute the "in-sample R2" (pseudo) for the models you train and compare the models based on this metric.
 
 3. [10 pts] For the Logistic Regression models trained above, pick the best model wrt to the in-sample R2 and give your interpretation of the model’s coefficients (For example, what effect does a positive or negative coefficient have on the model and so on).
 
